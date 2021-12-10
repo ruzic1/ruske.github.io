@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Košarkaški klub Sparta</title>
+        <link>https://ruske.github.io/index.html</link>
+        <description>Dobrodošli na sajt našeg košarkaškog kluba Sparta</description>
+        <item>
+            <title>Sportski Dan</title>
+            <link>https://ruske.github.io/index.html</link>
+            <description>20. Decembra je godišnjica našeg kluba,stoga svi koji su zainteresovani mogu doći na igru i druženje!</description>
+        </item>
+        <item>
+            <title>Sjajni rezultati na takmičenju</title>
+            <link>https://ruske.github.io/index.html</link>
+            <description>Naši košarkaši su osvojili 2. mesto na takmičenju u Somboru.Bravo!</description>
+        </item>
+        <item>
+            <title>Praznični popust</title>
+            <link>https://ruske.github.io/index.html</link>
+            <description>Zbog predstojećih praznika,odlučili smo da umanjimo mesečnu članarinu za 15%,bez obzira koji program.Želimo Vam srećne novogodišnje praznike!</description>
+        </item>
+    </channel>
+</rss>

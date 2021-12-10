@@ -1,0 +1,52 @@
+@media screen and (max-width:949px)
+{
+    .autori-slika{
+        width:60%;
+    }
+}
+@media screen and (max-width:805px)
+{
+    h1{
+        font-size:15px;
+    }
+    .card-body h5{
+        font-size:25px;
+    }
+    .card-group{
+        display:flex;
+        flex-direction:column;
+    }
+    .scrollOpcija{
+        display:flex;
+        flex-direction:column;
+    }
+    
+}
+@media screen and (max-width:593px)
+{
+    .autori-paragraf{
+        padding:10px;
+        width:100%;
+    }
+    
+}
+@media screen and (max-width:423px)
+{
+    #kontakt{
+        
+    }
+    .footer-copyright a{
+        margin:5px;
+    }
+    .footer-copyright{
+        display:flex;
+        flex-direction:column;
+    }
+    #dugmePozivanje{
+        width:95px;
+    }
+
+    .autori-slika{
+        width:100%;
+    }
+}
